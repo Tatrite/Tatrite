@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Hello World?</h1>
 
 ###
 
@@ -9,8 +9,6 @@
 <h2 align="left">About me</h2>
 
 ###
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -55,12 +53,20 @@
 
 ###
 
-<p align="left">Contact me</p>
+<h2 align="left">Contact me</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/florian-fuchs-629275306/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:florian.fuchs31700@gmail.com?subject=Prise%20de%20contact&body=Bonjour,%20je%20souhaite%20vous%20contacter%20pour..." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="mailto:florian.fuchs@edu.igensia.com?subject=Prise%20de%20contact&body=Bonjour,%20je%20souhaite%20vous%20contacter%20pour..." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
